@@ -1,0 +1,5 @@
+requests
+valclient
+psutil
+prompt_toolkit==3.0.19
+InquirerPy
